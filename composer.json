@@ -1,7 +1,7 @@
 {
     "name": "chonla/cfg",
     "description": "Configuration Loader/Dumper",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "license": "MIT",
     "type": "library",
      "keywords": ["configuration", "config", "json", "yaml", "ini", "xml"],
