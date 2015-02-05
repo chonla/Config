@@ -2,6 +2,9 @@
     "name": "chonla/cfg",
     "description": "Configuration Loader/Dumper",
     "license": "MIT",
+    "type": "library",
+     "keywords": ["configuration", "config", "json", "yaml", "ini", "xml"],
+    "homepage": "https://github.com/chonla/Config",
     "authors": [
         {
             "name": "Chonlasith Jucksriporn",
