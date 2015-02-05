@@ -142,4 +142,4 @@ debug: false
 ```
 
 ## license
-MIT: <http://noodlehaus.mit-license.org>
+MIT: <http://chonla.mit-license.org/>
