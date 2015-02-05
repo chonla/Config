@@ -1,0 +1,25 @@
+{
+    "name": "chonla/cfg",
+    "description": "Configuration Loader/Dumper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chonlasith Jucksriporn",
+            "email": "chonlasith@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4",
+        "noodlehaus/config": "dev-master",
+        "pwfisher/command-line-php": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chonla\\": "src/"
+        }
+    }
+}
