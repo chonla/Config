@@ -28,7 +28,7 @@ class Config extends \Noodlehaus\Config {
 
     protected function saveYaml($path)
     {
-        $output = Yaml::dump($this->data);
+        $output = Yaml::dump($this->data, 100);
         file_put_contents($path, $output);
     }
 
